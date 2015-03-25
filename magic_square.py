@@ -23,6 +23,5 @@ def main():
     print(magic_square([[23, 28, 21], [22, 24, 26], [27, 20, 25]]))
     print(magic_square([[16, 23, 17], [78, 32, 21], [17, 16, 15]]))
 
-
 if __name__ == '__main__':
     main()
